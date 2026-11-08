@@ -12,8 +12,6 @@ source: pfarrplaner
 source_id: "360@planer.pfarr.tools"
 cover: und-wenn-er-kommt.jpg
 cover_alt: "Titelbild zur Predigt \"Und wenn er kommt?\"."
-audio: und-wenn-er-kommt.mp3
-audio_duration: "0:11"
 listed: true
 index: true
 federate: true
